@@ -1,6 +1,7 @@
 Modeling and Simulating Intelligent Home Automation Systems: Integrating Lighting and Temperature Control.
 
 ------
+Circuit Diagram.
 
 ![image](https://github.com/user-attachments/assets/5d1b0dda-8cab-4194-b014-05bc10180340)
 
